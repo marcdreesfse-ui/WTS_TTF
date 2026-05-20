@@ -1,7 +1,7 @@
 {
   "version": "1.1",
-  "date": "2026-05-11",
-  "changelog": "Initial public release\nBase Wander//Stuck font",
+  "date": "2026-05-20",
+  "changelog": "Initial release",
   "download_url": "https://github.com/marcdreesfse-ui/WTS_TTF/raw/main/wanderstuck.ttf",
   "classifier_url": "https://github.com/marcdreesfse-ui/WTS_TTF/raw/main/ws_classifier.pth"
 }
