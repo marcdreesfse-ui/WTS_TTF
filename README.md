@@ -10,3 +10,6 @@ This repo contains the following files:
 > ws_classifier.onnx.data | This file contains the data for the OCR model which helps it initialize the OCR and scan for glyphs
 > 
 > ws_chars.json     | This file contains all availible WS characters the OCR can use 
+
+
+I know this is wayyy more complicated than it probably has to be but im just getting the hang of python after like 7 months of programming with it.
