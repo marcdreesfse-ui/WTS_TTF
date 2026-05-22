@@ -1,7 +1,8 @@
 {
-  "version": "1.1",
-  "date": "2026-05-20",
-  "changelog": "Initial release",
+  "version": "1.2",
+  "date": "2026-05-22",
+  "changelog": "Changed .pth to .onnx",
   "download_url": "https://github.com/marcdreesfse-ui/WTS_TTF/raw/main/wanderstuck.ttf",
-  "classifier_url": "https://github.com/marcdreesfse-ui/WTS_TTF/raw/main/ws_classifier.pth"
+  "classifier_url": "https://github.com/marcdreesfse-ui/WTS_TTF/raw/main/ws_classifier.onnx",
+  "chars_url": "https://github.com/marcdreesfse-ui/WTS_TTF/raw/main/ws_chars.json"
 }
