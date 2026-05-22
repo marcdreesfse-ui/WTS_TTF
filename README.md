@@ -5,6 +5,6 @@ This repo contains 3 files:
 
 > wanderstuck.ttf   | This file contains all wanderstuck language glyphs which are used to correctly display the characters in WST.
 
-> ws_classifier.pth | This file contains all training data for the Custom OCR that comes with WST. it is crucial for the OCR's function [DEPRECATED]
+> ws_classifier.onnx | This file contains the entire OCR model which is way more compact and runs 3x faster than the .pth
 
-> ws_classifier.onnx | Thsi file contains the entire OCR model which is way more compact and runs 3x faster than the .pth
+> ws_chars.json     | This file contains all availible WS characters the OCR can use 
